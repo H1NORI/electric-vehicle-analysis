@@ -1,5 +1,7 @@
 # Electric Vehicle Population
 
+📍 README in Ukrainian language: [README-UA](README-UA.md)
+
 📍 Initial Dataset: [dataset](initial-dataset.csv)
 
 📍 Excel Workbook: [workbook](ElectricVehiclePopulationData_workbook.xlsx)
@@ -7,6 +9,17 @@
 📍 Cleaned Dataset: [cleaned dataset](ElectricVehiclePopulationClearData.csv)
 
 📍 Tableau Dashboard: [dashboard](ElectricVehicle.twb)
+
+---
+
+## Table of contents
+
+- [1. Data Understanding](#1-data-understanding)
+- [2. Data Cleaning](#2-data-cleaning)
+- [3. Exploratory Data Analysis](#3-exploratory-data-analysis)
+- [4. Spatial Analysis](#4-spatial-analysis)
+- [5. Hypotheses and Conclusions](#5-hypotheses-and-conclusions)
+- [6. Additional Findings and Interesting Details](#6-additional-findings-and-interesting-details)
 
 ---
 
